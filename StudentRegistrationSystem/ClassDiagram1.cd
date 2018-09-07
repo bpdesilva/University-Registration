@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentRegistrationSystem.Classes.AssignModule">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACgAAASAIQDiGAACICAIAJIAgAAAAQAAHQAiAA=</HashCode>
+      <FileName>Classes\AssignModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistrationSystem.Classes.Bill" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEEAMQAAAAAAAACIAMAAEACAAAAAAAABARAAAAQACQA=</HashCode>
+      <FileName>Classes\Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistrationSystem.Classes.Module">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAEAAAAICIICAIAAAAIgAAAQACAAGAAQAAAAACBg=</HashCode>
+      <FileName>Classes\Module.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistrationSystem.Classes.Professor">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEMAICggIAyAAQAIAAAQAAAAgCICAAIAAkKEAIA=</HashCode>
+      <FileName>Classes\Professor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistrationSystem.Classes.Registar">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAQAIAAAQAAAAAAACAAAAAAAAAIA=</HashCode>
+      <FileName>Classes\Registar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistrationSystem.Classes.Student">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEMAKCAgIAyAAQAIAAAQAAAQACICAAIAAkICAIg=</HashCode>
+      <FileName>Classes\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

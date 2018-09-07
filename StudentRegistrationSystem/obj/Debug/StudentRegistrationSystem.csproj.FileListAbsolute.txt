@@ -1,0 +1,24 @@
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csprojResolveAssemblyReference.cache
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.Billing.resources
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.ProfessorHome.resources
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Login.resources
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.RegistarHome.resources
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.StudentHome.resources
+C:\Users\Buwaneka De Silva\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.Cache
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\MetroFramework.dll
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csprojResolveAssemblyReference.cache
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.Billing.resources
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.ProfessorHome.resources
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Login.resources
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.RegistarHome.resources
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.UI.StudentHome.resources
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.Cache
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+C:\Users\Buwaneka\Documents\Visual Studio 2017\Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
