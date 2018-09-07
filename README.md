@@ -20,23 +20,24 @@ Professors must be able to access the student registration system through their 
 For each semester, there is a period of time that students can change their schedule. Students must be able to access the system during this time to add or drop modules.   
 
 The following are the basic requirements from the System of SU
-	*	Students want to register for modules 
 
-	*	Professors want to select modules to teach. 
+* Students want to register for modules 
 
-	*	The Registrar must create the curriculum and generate a module list for the semester. 
+* Professors want to select modules to teach. 
 
-	*	The Registrar must maintain all the information about Modules, Professors and Students. 
+* The Registrar must create the curriculum and generate a module list for the semester. 
 
-	*	The Billing system must receive billing information from the system 
+* The Registrar must maintain all the information about Modules, Professors and Students. 
+
+* The Billing system must receive billing information from the system 
 		
-	*	The student needs to use the system to register for modules 
+* The student needs to use the system to register for modules 
 
-	*	After the module selection process is completed, the Billing System must be supplied with billing information 
+* After the module selection process is completed, the Billing System must be supplied with billing information 
 
-	*	The Professor needs to use the system to select the modules to teach for a semester, and must be able to receive a module schedule from the system. 
+* The Professor needs to use the system to select the modules to teach for a semester, and must be able to receive a module schedule from the system. 
 
-	*	The Registrar is responsible for the generation of the module list for a semester, and for the maintenance of all information about the curriculum, the students, and the Professors needed by the system.
+* The Registrar is responsible for the generation of the module list for a semester, and for the maintenance of all information about the curriculum, the students, and the Professors needed by the system.
 	
 
 Note:- Billing is not a covered within the scope of this Student Registration system. But this system should supply student module registration information for billing. Billing system is an actor in the context of this registration system.
